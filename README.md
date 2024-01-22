@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Naik</h1>
-<h3 align="center">Web Developement and Problem Solving</h3>
+<h3 align="center">Web Development and Problem Solving</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cakesandcarrots&label=Profile%20views&color=0e75b6&style=flat" alt="cakesandcarrots" /> </p>
 

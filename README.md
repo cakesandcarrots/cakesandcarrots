@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cakesandcarrots&label=Profile%20views&color=0e75b6&style=flat" alt="cakesandcarrots" /> </p>
 
-- 🔭 I’m currently working on **Shopping Cart**
+- 🔭 I’m currently working on **Nodejs**
 
 - 🌱 I’m currently learning **React**
 
